@@ -1,14 +1,15 @@
 class Translation(object):
     START_TEXT = """Hello ✋,
-This is Url Uploader 1.0 🤖!
-This is a Url Uploader Bot that you can upload files📁 promptly to Telegram <i class="fab fa-telegram"></i>
+⭕️This is Url Uploader 1.0 🤖!
+   https://telegra.ph/file/42df73b91cfcd677230ee.png
+⭕️Let's get started..!✅ You can upload files 📁 promptly to Telegram through me😎.
 
-<b>Please send me any direct download URL Link🔗, i can upload to telegram as File/Video</b>
+<b>Please send me any direct download Link🔗, I will upload it to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @InFoTelGroup
-© @SpEcHlDe , @TGBotsZ & @CWProjects"""
+⭕️Support: <a href="https://t.me/LK9779">My_master</a>
+⭕️Join with us our channels and groups <a href="https://t.me/leech99Lk">Leech-LK ⬇️🇱🇰</a> | <a href="https://t.me/Monzleechlk">🍃SL MONSTER LEECH🍃</a> | <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -16,38 +17,38 @@ Support Group : @InFoTelGroup
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "trying to download"
-    UPLOAD_START = "trying to upload"
+    DOWNLOAD_START = "Downloading to server📥"
+    UPLOAD_START = "Uploading to Telegram 📤"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @TGBotsZ"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @TGBotsZ \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. <a href="https://t.me/LK9779">RateMe</a>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds \n<a href="https://t.me/LK9779">RateMe</a>."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
-    FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
+    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail 🖼 cleared succesfully."
+    FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared 🖼 succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
-    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
+    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found 🤷‍♂️."
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
+Plan name: Free User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot..
     
-1. Send url (Link|New Name with Extension).
-2. Send Custom Thumbnail (Optional).
+1. Send url (Link🔗|New Name with Extension).
+2. Send Custom Thumbnail 🖼 (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+   File  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+If you experiencing bugs or issues please contact my <a href="https://t.me/LK9779">Master</a>
 
 --------
 Send /me to know current plan details
