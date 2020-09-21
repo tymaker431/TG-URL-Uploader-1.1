@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """   Hello 😍✋,
 ⭕️ <a href="https://telegra.ph/file/42df73b91cfcd677230ee.png">This is Url Uploader 1.0 🤖!</a>
 
-⭕️ Let's get started..!✅ You can upload files 📁 promptly to Telegram through me😎.
+⭕️ Let's get started..!✅ You can upload files   📁 promptly to Telegram through me😎.
 
 <b>Please send me any direct download Link🔗, I will upload it to telegram as File/Video</b>
 
@@ -52,10 +52,8 @@ Expires on: 31/12/2020"""
 If you experiencing bugs or issues please contact my <a href="https://t.me/LK9779">Master</a>
 
 --------
-Send /me to know current plan details
-
-Support Group : @InFoTelGroup
-© @TGBotsZ"""
+Send /me to know current plan details"""
+    
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
