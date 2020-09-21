@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """   Hello ✋,
+    START_TEXT = """   Hello 😍✋,
 ⭕️ <a href="https://telegra.ph/file/42df73b91cfcd677230ee.png">This is Url Uploader 1.0 🤖!</a>
 
 ⭕️ Let's get started..!✅ You can upload files 📁 promptly to Telegram through me😎.
