@@ -10,7 +10,7 @@ class Translation(object):
 
 ⭕️Support: <a href="https://t.me/LK9779">My_master</a>
 
-⭕️Join with us our channels and groups \n<a href="https://t.me/leech99Lk">Leech-LK ⬇️🇱🇰</a> | <a href="https://t.me/Monzleechlk">🍃SL MONSTER LEECH🍃</a> /n| <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a>"""
+⭕️Join with us our channels and groups \n<a href="https://t.me/leech99Lk">Leech-LK ⬇️🇱🇰</a> | <a href="https://t.me/Monzleechlk">🍃SL MONSTER LEECH🍃</a> /n | <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
