@@ -1,8 +1,9 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
+    START_TEXT = """Hello ✋,
+This is Url Uploader 1.0 🤖!
+This is a Url Uploader Bot that you can upload files📁 promptly to Telegram <i class="fab fa-telegram"></i>
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>Please send me any direct download URL Link🔗, i can upload to telegram as File/Video</b>
 
 /help for more details..
 
