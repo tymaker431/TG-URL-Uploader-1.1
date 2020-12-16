@@ -10,7 +10,7 @@ class Translation(object):
 
 ⭕️ Support: <a href="https://t.me/LK9779">My_master</a>
 
-⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/leech99Lk">Leech-LK ⬇️🇱🇰</a> | <a href="https://t.me/Monzleechlk">🍃SL MONSTER LEECH🍃</a> |  <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a>"""
+⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/leech99Lk">Leech-LK ⬇️🇱🇰</a> | <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -41,7 +41,7 @@ Plan name: Free User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot..
     
-1. Send url (Link🔗|New Name with Extension).
+1. Send url (URL🔗|New Name with Extension).
 2. Send Custom Thumbnail 🖼 (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
