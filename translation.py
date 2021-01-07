@@ -11,7 +11,8 @@ class Translation(object):
 ⭕️ Support: <a href="https://t.me/LK9779">My_master</a>
 
 ⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a> | <a href="https://t.me/seriez_hub">𝕊𝕖𝕣𝕚𝕖𝕤 ℍ𝕌𝔹🏷™️〽️</a>
-    <a title="Url Uploader 1.0"><img src="https://telegra.ph/file/42df73b91cfcd677230ee.png" width="300" /></a>"""
+
+    <img src="https://telegra.ph/file/42df73b91cfcd677230ee.png" width="300"</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
