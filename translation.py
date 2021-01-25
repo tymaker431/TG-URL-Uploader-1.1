@@ -49,6 +49,13 @@ Expires on: 31/12/2020"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots
+
+4. Send the link on this format if you want to rename the file.
+   <b>link | whatever you like.extention</b>
+   Note : putting a space before "|" and after "|" is <b>compulsory.</b>
+   Here is an <a href="https://telegra.ph/file/d88d9f70ce04ba44076f8.jpg">example</a>
+
+   
    
 If you experiencing bugs or issues please contact my <a href="https://t.me/LK9779">Master</a>
 
