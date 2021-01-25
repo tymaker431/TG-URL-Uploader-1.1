@@ -10,7 +10,9 @@ class Translation(object):
 
 ⭕️ Support: <a href="https://t.me/LK9779">My_master</a>
 
-⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a> | <a href="https://t.me/seriez_hub">𝕊𝕖𝕣𝕚𝕖𝕤 ℍ𝕌𝔹🏷™️〽️</a>"""
+⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a> | <a href="https://t.me/seriez_hub">𝕊𝕖𝕣𝕚𝕖𝕤 ℍ𝕌𝔹🏷™️〽️</a>
+   
+   <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, So please enjoy the service patiently."""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
