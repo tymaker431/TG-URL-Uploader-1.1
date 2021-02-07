@@ -44,7 +44,7 @@ Plan name: Free User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot..
     
-1. Send url (URL🔗|New Name with Extension).
+<a href="https://telegra.ph/file/d88d9f70ce04ba44076f8.jpg">1.</a> Send url (URL🔗|New Name with Extension).
 2. Send Custom Thumbnail 🖼 (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
@@ -55,7 +55,7 @@ Expires on: 31/12/2020"""
 4. Send the link on this format if you want to rename the file.
    <b>link | whatever you like.extention</b>
    Note : putting a space before "|" and after "|" is <b>compulsory.</b>
-   Here is an <a href="https://telegra.ph/file/d88d9f70ce04ba44076f8.jpg">example</a>
+   Here is an example.
 
    
    
