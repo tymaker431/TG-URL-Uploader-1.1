@@ -1,1 +1,1 @@
-worker: python3 bot.py
+newrelic-admin run-program worker: python3 bot.py
