@@ -44,7 +44,7 @@ Plan name: Free User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot..
     
-<a href="https://telegra.ph/file/d88d9f70ce04ba44076f8.jpg">1.</a> Send url (URL🔗|New Name with Extension).
+<a href="https://telegra.ph/file/d88d9f70ce04ba44076f8.jpg">1. Send url (URL🔗|New Name with Extension). </a> 
 2. Send Custom Thumbnail 🖼 (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
@@ -61,7 +61,7 @@ Expires on: 31/12/2020"""
    
 If you experiencing bugs or issues please contact my <a href="https://t.me/LK9779">Master</a>
 
---------
+
 Send /me to know current plan details"""
     
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
