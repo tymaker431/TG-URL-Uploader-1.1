@@ -9,3 +9,4 @@ requests
 tgcrypto
 youtube_dl==2020.11.12
 olefile
+newrelic==6.0.1.155
