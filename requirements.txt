@@ -1,4 +1,4 @@
-aiohttp
+aiohttp==3.7.4
 beautifulsoup4
 git+git://github.com/google/chatbase-python.git
 hachoir
