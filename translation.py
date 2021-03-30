@@ -12,7 +12,9 @@ class Translation(object):
 
 ⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/joinchat/RKuoSl5fBXbmpZJM">FilⓂ️s Hub™️〽️</a> | <a href="https://t.me/joinchat/UVScphiXLM6vQH7q">𝕊𝕖𝕣𝕚𝕖𝕤 ℍ𝕌𝔹🏷™️〽️</a>
    
-   <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently."""
+   <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently.
+    
+    🄰🄻🄻 🄲🅁🄴🄳🄸🅃🅂 🄶🄾🄴🅂 🅃🄾 \n<a href="https://github.com/SpEcHiDe">SpEcHiDe<a/>"""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
