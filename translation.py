@@ -14,7 +14,7 @@ class Translation(object):
    
    <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently.
     
-    🄰🄻🄻 🄲🅁🄴🄳🄸🅃🅂 🄶🄾🄴🅂 🅃🄾 \n<a href="https://github.com/SpEcHiDe">SpEcHiDe<a/>"""
+    All credits goes to <a href="https://github.com/SpEcHiDe">SpEcHiDe<a/>"""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
