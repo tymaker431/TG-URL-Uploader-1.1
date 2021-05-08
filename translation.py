@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """   Hello 😍✋,
-⭕️ <a href="https://telegra.ph/file/42df73b91cfcd677230ee.png">This is Url Uploader 1.0 🤖!</a>
+⭕️ <a href="https://telegra.ph/file/42df73b91cfcd677230ee.png">I am Url Uploader 1.0 🤖!</a>
 
 ⭕️ Let's get started..!✅ You can upload files   📁 promptly to Telegram through me😎.
 
@@ -13,7 +13,10 @@ class Translation(object):
 ⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/joinchat/RKuoSl5fBXbmpZJM">FilⓂ️s Hub™️〽️</a> | <a href="https://t.me/joinchat/UVScphiXLM6vQH7q">𝕊𝕖𝕣𝕚𝕖𝕤 ℍ𝕌𝔹🏷™️〽️</a>
    
    <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently.
-    
+
+⚠ <b>Disclaimer</b>
+   Upload anything you want 😁, but I ain't responsible for any of that. 😐
+  
     🄰🄻🄻 🄲🅁🄴🄳🄸🅃🅂 🄶🄾🄴🅂 🅃🄾 <a href="https://github.com/SpEcHiDe">SpEcHiDe</a>"""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
