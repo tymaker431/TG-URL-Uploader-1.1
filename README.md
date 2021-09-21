@@ -11,6 +11,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 👉 Upload as file from any HTTP link
 
+## Demo Bot:
+<a href="https://t.me/DragonUploaderV1_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+
 ### Installation
 
 #### The Easy Way
