@@ -1,6 +1,8 @@
 ## URL Uploader Bot
 ---
 
+https://img.shields.io/github/stars/Drago991/TG-URL-Uploader-1.0?style=social
+
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **My Features**:
