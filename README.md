@@ -3,6 +3,14 @@
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
+
+<a href="https://github.com/pqt/social-preview">
+  <img
+    src="https://img.shields.io/badge/%E2%9C%93-Social%20Preview-blue"
+    alt="This Repository uses a generated Social Preview from @pqt/social-preview"
+  />
+</a>
+
 **My Features**:
 
 👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
