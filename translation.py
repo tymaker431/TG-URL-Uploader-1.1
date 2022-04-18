@@ -2,15 +2,13 @@ class Translation(object):
     START_TEXT = """   Hello,
 ⭕️ <a href="https://telegra.ph/file/42df73b91cfcd677230ee.png">I am Url Uploader 1.0 🤖!</a>
 
-⭕️ Let's get started..!✅ You can upload files   📁 promptly to Telegram through me.
-
-<b>Please send me any direct download link, I will upload it to telegram as File/Video</b>
+⭕️ Let's get started..!✅ You can upload files   📁 promptly to Telegram through me. Please send me any direct download link, I will upload it to telegram as File/Video.
 
 /help for more details..
 
-⭕️ Support: <a href="https://t.me/LK9779">My_master</a>
+🧑‍💻 Support: <a href="https://t.me/LK9779">My_master</a>
    
-   <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently.
+<b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently<b> and don't spam links..</b>
 
 ⚠ <b>Disclaimer</b>
    Upload anything you want 😁, but I ain't responsible for any of that. 😐
