@@ -9,4 +9,3 @@ requests
 tgcrypto
 youtube_dl
 olefile
-newrelic
