@@ -5,11 +5,11 @@
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
-**My Features**:
+**Features**:
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+● All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
-👉 Upload as file from any HTTP link
+● Upload as file from any HTTP link
 
 ## Demo Bot:
 <a href="https://t.me/DragonUploaderV1_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
@@ -22,7 +22,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drago991/TG-URL-Uploader-1.0/tree/master)
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+**Watch our Video for Create own Bot** - https://youtu.be/QkAkSLBgoYw
 
 #### The Hard Way
 
@@ -32,7 +32,7 @@ virtualenv -p python3 VENV
 pip install -r requirements.txt
 cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
-python bot.py
+python3 bot.py
 ```
 ## Our Telegram Channel and Group
 
