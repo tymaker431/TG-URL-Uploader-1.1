@@ -27,8 +27,10 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 #### The Hard Way
 
 ```sh
-virtualenv -p python3 VENV
+python3 -m venv VENV
 . ./VENV/bin/activate
+git clone https://github.com/Drago991/TG-URL-Uploader-1.0
+cd TG-URL-Uploader-1.0
 pip install -r requirements.txt
 cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
