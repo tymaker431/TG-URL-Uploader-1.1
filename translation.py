@@ -6,7 +6,7 @@ class Translation(object):
 
 /help for more details..
 
-🧑‍💻 Support: <a href="https://t.me/LK9779">My_master</a>
+🧑‍💻 Support: <a href="https://t.me/damindu_9">My_master</a>
    
 <b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently<b> and don't spam links..</b>
 
