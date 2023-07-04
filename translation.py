@@ -8,11 +8,6 @@ class Translation(object):
 
 🧑‍💻 Support: <a href="https://t.me/damindu_9">My_master</a>
    
-<b>Note:</b> I'm running on a free server so there maybe some issues like not responing, limited speed... So please enjoy the service patiently<b> and don't spam links..</b>
-
-⚠ <b>Disclaimer</b>
-   Upload anything you want 😁, but I ain't responsible for any of that. 😐
-  
 Credits: <a href="https://github.com/SpEcHiDe">SpEcHiDe</a>"""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
